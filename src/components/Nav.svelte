@@ -46,7 +46,7 @@
   <div id="navbarBasicExample" class="navbar-menu">
     <div class="navbar-start">
       <a href="/" class="navbar-item">
-        Nusendra's Task
+        My Tasks
       </a>
     </div>
   </div>
