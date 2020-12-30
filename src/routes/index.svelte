@@ -55,7 +55,6 @@
 	}
 </script>
 
-<pre>{ hoveringColumn }</pre>
 <div class="columns" style="margin: 10px;">
   {#each _columns as { name, items }, index (index)}
     <div
